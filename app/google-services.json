@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67825223303",
+    "project_id": "quizapp-hamza-aitahmed-4iirg4",
+    "storage_bucket": "quizapp-hamza-aitahmed-4iirg4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67825223303:android:cd5cf7e7497d133c045a22",
+        "android_client_info": {
+          "package_name": "com.example.quizapp_hamza_aitahmed_4iirg4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYhRPni0B_0sJwni_V4G-f4JwfgB8JAKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
